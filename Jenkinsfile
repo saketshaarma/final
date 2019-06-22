@@ -1,7 +1,7 @@
-def CONTRAIL_VERSION="R5.1"
-def BRANCH="R5.1"
+def CONTRAIL_VERSION="master"
+def BRANCH="master"
 def image_name="tungstenfabric/developer-sandbox"
-def image_tag="R5.1"
+def image_tag="master"
 def BUILD_FOLDER="contrail-env"
 pipeline {
         agent any
